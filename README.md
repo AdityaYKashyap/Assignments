@@ -1,2 +1,2 @@
-# deloittetraining
-All material related to the training found here
+# Assignments
+All material related to the assignments found here
