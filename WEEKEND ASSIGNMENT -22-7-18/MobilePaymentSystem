@@ -1,0 +1,5 @@
+Client - user layer
+PaymentService, PaymentServiceImp1 - service layer
+PaymentDao, PaymentDao1 - Dao layer
+
+Input: Username - mobile number. Password - last 4 digits of the number + "qwerty"
