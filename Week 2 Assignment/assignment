@@ -1,7 +1,15 @@
 This folder contains the class and java files for the given questions in assignment 2
 Question 1: Arithmetic.class
+            Addition.class
+            Subtraction.class
+            Multiplication.class
+            Division.class
             Arithmetic.java
 Question 2: EmployeeMain.class
+            EmployeeBo.class
+            EmployeeVo.class
+            Employeesort.class
             EmployeeMain.java
 Question 3: Main.class
+            userMainCode.class
             Main.java
